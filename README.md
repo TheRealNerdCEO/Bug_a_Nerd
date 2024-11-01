@@ -1,19 +1,4 @@
 Bug a Nerd
-A web-based platform connecting local IT professionals ("Nerds") with clients who need technical assistance.
-Project Overview
-Bug a Nerd allows clients to:
-
-Search for local IT professionals
-Request technical assistance
-Communicate with professionals in real-time
-Make secure payments for services
-
-IT professionals can:
-
-Create and manage their profiles
-Accept job requests
-Communicate with clients
-Receive payments through the platform
 
 Technology Stack
 
